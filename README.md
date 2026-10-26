@@ -6,6 +6,6 @@ Hi, I'm Amir. I live in Almaty and I like using ML to solve real problems. I lea
 - **[almaty-buildings](https://github.com/amsulz/almaty-buildings)** – finds the type of apartment buildings in Almaty (Soviet panel, brick or modern monolith) from Street View photos, to see which ones may be at risk in an earthquake. Still in progress.
 - **[flappy-bird-ai](https://github.com/amsulz/flappy-bird-ai)** – a neural network written from scratch that learns to play Flappy Bird with a genetic algorithm.
 
-## For fun
+## Other
 
-- **[Revanche Pact](https://steamcommunity.com/sharedfiles/filedetails/?id=3819652864)** – a mod for Hearts of Iron IV, alternative history where Germany and Britain won WW1. 638 subscribers and 101 favorites on Steam Workshop.
+- Made a [mod for Hearts of Iron IV](https://steamcommunity.com/sharedfiles/filedetails/?id=3819652864): 630 active subscribers, 101 favorites.
